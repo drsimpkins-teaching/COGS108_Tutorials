@@ -32,10 +32,12 @@ Any other dependencies, for specific Tutorials, are specifically addressed in th
 
 ## Development
 
-This repository is developed and maintained by 
+This repository was originally developed and maintained by 
 [TomDonoghue](https://github.com/TomDonoghue/), 
 as well as by the COGS108 
 [staff](https://github.com/COGS108/Overview/blob/master/CONTRIBUTORS.md).
+
+And this fork is maintained by Alex Simpkins PhD and the staff of his COGS108 courses.
 
 Contributions to this resource are welcome and encouraged! 
 If you have suggestions for new links or materials, and/or fixes for any issues you spot, 
