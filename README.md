@@ -4,8 +4,8 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/COGS108/Tutorials/master)
 [![License: CC-BY 4.0](https://img.shields.io/badge/License-CC--BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This repository is a set of tutorials for learning data science, created as part of the 
-[Data Science in Practice](https://github.com/COGS108/Overview) class.
+This repository is a set of tutorials for learning data science, used as part of the 
+[Data Science in Practice](http://casimpkinsjr.radiantdolphinpress.com/pages/cogs108_ss1_23/) class.
 
 These materials are also publicly available and hosted online at 
 [datascienceinpractice.github.io/](https://datascienceinpractice.github.io/).
@@ -37,7 +37,7 @@ This repository was originally developed and maintained by
 as well as by the COGS108 
 [staff](https://github.com/COGS108/Overview/blob/master/CONTRIBUTORS.md).
 
-And this fork is maintained by Alex Simpkins PhD and the staff of his COGS108 courses.
+And this fork is maintained by [Alex Simpkins PhD](http://casimpkinsjr.radiantdolphinpress.com) and the staff of his [courses](https://github.com/drsimpkins-teaching).
 
 Contributions to this resource are welcome and encouraged! 
 If you have suggestions for new links or materials, and/or fixes for any issues you spot, 
